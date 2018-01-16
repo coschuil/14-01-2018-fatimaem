@@ -1,10 +1,10 @@
-#Mənbələr
+# Mənbələr
 - https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=ymM4awQIC_5206218949
 - https://www.youtube.com/watch?v=nvKaNs2i1FQ
 - https://www.youtube.com/watch?v=L4TOJaY5Zxs
 - https://www.youtube.com/watch?v=qneGOYi8u_c
 
-#Tapşırıq
+# Tapşırıq
 - console app yaradın
 - Phone classı yaradın
 - içərisində make(string), model(string) memory (int), cpu (int), display (type int, diagonal double), balance(double) field-ləri,
